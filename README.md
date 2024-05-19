@@ -14,6 +14,7 @@ https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/index.
 
 # Documentación Hardware
 ESP32-C3-DEVKITC-02: https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/hw-reference/esp32c3/user-guide-devkitc-02.html
+
 ESP32-C3-LCDKIT: https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/esp32c3/esp32-c3-lcdkit/user_guide.html
 
 # Ejemplos de ESP32 con FreeRTOs:

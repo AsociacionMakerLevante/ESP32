@@ -10,9 +10,9 @@ https://github.com/espressif/vscode-esp-idf-extension/blob/a3291c693f83141fc89a3
 https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads
 
 # Documentación APIs:
-https://www.freertos.org/a00106.html
+FreeRTOs: https://www.freertos.org/a00106.html
 
-https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/index.html
+ESP-IDF: https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/index.html
 
 # Documentación Hardware
 ESP32-C3-DEVKITC-02: https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/hw-reference/esp32c3/user-guide-devkitc-02.html

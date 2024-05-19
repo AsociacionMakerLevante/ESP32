@@ -2,9 +2,9 @@
 Este repositorio contiene enlaces y código para aprender a usar el ESP32 con FreeRTOS.
 
 # Instalación ESP-IDF:
-https://github.com/espressif/vscode-esp-idf-extension/blob/HEAD/docs/tutorial/install.md
+Instalación: https://github.com/espressif/vscode-esp-idf-extension/blob/HEAD/docs/tutorial/install.md
 
-https://github.com/espressif/vscode-esp-idf-extension/blob/a3291c693f83141fc89a3de1cead0c19554914cc/docs/tutorial/basic_use.md
+Uso: https://github.com/espressif/vscode-esp-idf-extension/blob/a3291c693f83141fc89a3de1cead0c19554914cc/docs/tutorial/basic_use.md
 
 # Driver CP2102:
 https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads

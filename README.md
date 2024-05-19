@@ -1,7 +1,7 @@
 # Grupo de trabajo del ESP32
 Este repositorio contiene enlaces y código para aprender a usar el ESP32 con FreeRTOS.
 
-# Instalación ESP-IDF:
+# Instalación ESP-IDF en VS Code:
 Instalación: https://github.com/espressif/vscode-esp-idf-extension/blob/HEAD/docs/tutorial/install.md
 
 Uso: https://github.com/espressif/vscode-esp-idf-extension/blob/a3291c693f83141fc89a3de1cead0c19554914cc/docs/tutorial/basic_use.md

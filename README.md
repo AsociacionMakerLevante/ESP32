@@ -19,6 +19,8 @@ ESP32-C3-DEVKITC-02: https://docs.espressif.com/projects/esp-idf/en/latest/esp32
 
 ESP32-C3-LCDKIT: https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/esp32c3/esp32-c3-lcdkit/user_guide.html
 
+ESP32-C3 Datasheet: https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf
+
 # Enlaces a ejemplos de ESP32 con FreeRTOs:
 https://github.com/DiegoPaezA/ESP32-freeRTOS
 

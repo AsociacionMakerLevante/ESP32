@@ -24,7 +24,6 @@ ESP32-C3 Datasheet: https://www.espressif.com/sites/default/files/documentation/
 # Enlaces a ejemplos de ESP32 con FreeRTOs.
 https://github.com/DiegoPaezA/ESP32-freeRTOS
 
-https://github.com/Mair/esp32-course/tree/master
 
 
 

@@ -28,12 +28,11 @@ void config_led(void)
 void led_verde(void *pvParameters)
 {
     uint8_t estado=0;
-while(1){
     estado=!estado;
  gpio_set_level(PIN_VERDE,estado);
  vTaskDelay(RETARDO_V/portTICK_PERIOD_MS);
 
-}
+
 }
 
 
@@ -41,12 +40,12 @@ while(1){
 void led_azul(void *pvParameters)
 {
     uint8_t estado=0;
-while(1){
+
     estado=!estado;
  gpio_set_level(PIN_AZUL,estado);
  vTaskDelay(RETARDO_A/portTICK_PERIOD_MS);
 
-}
+
 }
 
 
